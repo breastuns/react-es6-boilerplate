@@ -1,7 +1,7 @@
 {
-  "name": "react-scs",
-  "version": "1.0.0",
-  "description": "A website using React",
+  "name": "react-es6-boilerplate",
+  "version": "0.0.1",
+  "description": "A react es6 boilerplate",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --content-base build/",
